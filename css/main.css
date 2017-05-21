@@ -8,6 +8,8 @@ ul {
     padding: 12px;
     overflow: hidden;
     float: left;
+    display: block;
+    background-color: #dddddd;
 }
 
 li {
