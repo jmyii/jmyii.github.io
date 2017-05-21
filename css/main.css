@@ -1,11 +1,12 @@
-*{
+/*{
   background: url("https://s3.amazonaws.com/thatonetour.com/ToT-Images/IMG_2961.JPG")
-}
+}*/
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
     float: left;
 }
 
