@@ -2,16 +2,14 @@
   background: url("https://s3.amazonaws.com/thatonetour.com/ToT-Images/IMG_2961.JPG") no-repeat center center;
   background-size: cover;
 }
-.test {
-  text-align: center;
-  font-family: sans-serif;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     float: left;
 }
+
 li {
     float: left;
 }
